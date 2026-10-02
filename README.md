@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXidjDecVEGbmc1DHLoSb0RWHvsHihLFuIWOuD3yjxHA&amp;s=10" alt="Electric guitar belonging to Chuck Berry, nicknamed … free public domain image | Look and Learn"/><img width="297" height="512" alt="image" src="https://github.com/user-attachments/assets/e0106145-61d0-46e5-9682-7df56484e8db" />
 
 <!--
 **YaFigueroa26/YaFigueroa26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
